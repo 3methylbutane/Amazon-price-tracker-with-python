@@ -26,7 +26,7 @@ def send_mail():
 #    user-password
    )
    msg="prices fell down"
-   chop="check the amazon link https://www.amazon.in/K7-Total-Security-Email-Delivery/dp/B07CBWJSVS/ref=sr_1_1?keywords=k7+total+security+1+pc+1+year+2019+by+email&qid=1576065309&sr=8-1"
+   chop="check the amazon link https://www.amazon.in/Samsung-500GB-Portable-Solid-State/dp/B074WZJ4MF/ref=sr_1_3?dchild=1&keywords=external+ssd&psr=PDAY&qid=1627364490&s=prime-day&smid=A14CZOWI0VEHLG&sr=1-3"
    subject=f"Subject :{msg}\n\n{chop}"
    server.sendmail("xyz@gmail.com",   
 #    user-id who sends the mail
